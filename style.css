@@ -58,7 +58,6 @@ body {
     display: flex;
     justify-content: center;
     flex-direction: column;
-    /* overflow: hidden; */
     height: 80px;
     width: 520px;
     opacity: 0;
@@ -86,3 +85,4 @@ input:checked + label .description {
     opacity: 1;
     transform: translateY(0);
 }
+
